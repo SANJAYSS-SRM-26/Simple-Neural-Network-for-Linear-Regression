@@ -22,7 +22,7 @@
   pip install numpy
 
   Run the code:
-  python linear_regression_neural_network.py
+  main.py
 
 # Description
 
